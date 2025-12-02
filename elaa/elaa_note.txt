@@ -1,0 +1,2 @@
+During the workshop, I learned how to use Git and GitHub to manage my projects efficiently.I also practiced using commands like git clone, git add, git commit, git push, and git checkout, which help track changes and 
+collaborate with others easily. 
